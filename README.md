@@ -7,7 +7,9 @@ A custom built Devboard based of Rasberry-Pi RPI2040 microcontroller. Built with
 
 <img width="562" height="469" alt="Screenshot 2026-04-14 002018" src="https://github.com/user-attachments/assets/347e7e6b-2409-4e8f-be26-4d9be38215ae" />
 
-ART inspiration: I was inspired by the greek god Posiden and it formed the theme of this board :)
+ART inspiration: I was inspired by the Greek Mythology, more specificlaly the greek god Poseidon and it formed the theme of this board :)
+<img width="1590" height="818" alt="Screenshot 2026-04-12 221026" src="https://github.com/user-attachments/assets/983ac6bd-1207-44b1-baea-d1c14420388a" />
+
 
 
 
